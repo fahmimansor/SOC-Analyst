@@ -26,6 +26,9 @@ I currently working as Senior IT Support and am transitioning into cybersecurity
 Coming soon.
 
 ## Certifications and Training
+- CompTIA Network+
+- ITIL 4
+- Cisco Networking Academy training
 
 ---
 
